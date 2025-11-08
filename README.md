@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/furzeus/furzeus/main/assets/banner.svg" width="80%">
+  <img src="https://raw.githubusercontent.com/FurkanYenier/FurkanYenier/main/assets/banner.svg" width="80%">
 </p>
 
 🔖 *Son güncelleme:* **08 November 2025**
