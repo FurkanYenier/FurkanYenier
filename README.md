@@ -34,13 +34,16 @@
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furzeus&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanYenier&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furzeus&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanYenier&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FurkanYenier&theme=green-nur&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🧭 Diğer Linkler
