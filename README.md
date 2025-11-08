@@ -13,7 +13,7 @@
 - 💡 İlgi alanlarım: **Makine Öğrenmesi, Derin Öğrenme, Bilgisayarlı Görü, Doğal Dil İşleme**  
 - 🧠 Şu anda **veri sıkıştırma**, **mobil oyunlar** ve **AI tabanlı uygulamalar** üzerine çalışıyorum.  
 - 🛠️ Projelerim: Swift oyunları, Python AI araçları, 3D yazıcı pazar yeri platformu.  
-- 📬 Bana ulaş: **furkan@example.com**  
+- 📬 Bana ulaş: **yenier42furkan42@gmail.com**  
 - 🌍 Sosyal: [linkedin.com/in/furkan](https://www.linkedin.com/in/furkan-yenier-856a061b7/) · [github.com/FurkanYenier](https://github.com/FurkanYenier)
 
 ---
