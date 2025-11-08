@@ -1,8 +1,4 @@
 <!-- Furkan | @FurkanYenier -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=furzeus&theme=green-nur&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <h1 align="center">👋 Merhaba, ben Furkan</h1>
 <h3 align="center">Yapay Zeka Mühendisliği öğrencisi | Geliştirici | Tasarımcı</h3>
 
